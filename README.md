@@ -100,6 +100,11 @@ Once you’ve installed the dependencies, follow these steps to run the program:
     GET /cereal/{id}/image
     Fetch the image for a specific product.
 
+## Feedback
+
+I don't have any specific areas I want feedback on - just anything you come across.
+I had to rush this project a bit, so there are likely some flaws.
+
 ## Author
 
 Dennis Russell
